@@ -11,13 +11,13 @@ Elm app from [Elm in Action](https://www.manning.com/books/elm-in-action), by Ri
 First, from the project's directory, install packages with
 
 ```
-elm-package install
+make deps
 ```
 
 Second, compile the Elm file with
 
 ```
-elm-make PhotoGroove.elm --output elm.js
+make compile
 ```
 
 Finally, open the index.html file with
