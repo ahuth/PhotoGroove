@@ -1,6 +1,6 @@
 # PhotoGroove
 
-Elm app from [Elm in Action](https://www.manning.com/books/elm-in-action), by Richard Feldman.
+Elm app from [Elm in Action, by Richard Feldman](https://www.manning.com/books/elm-in-action).
 
 ## Requirements
 
